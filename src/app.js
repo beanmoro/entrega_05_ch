@@ -34,45 +34,45 @@ const pManager = new ProductManager(
 const realTimeProducts = await pManager.getProducts();
 
 
-realTimeProducts.forEach(async e => {
-  const newProduct = new productModel(e);
+// realTimeProducts.forEach(async e => {
+//   const newProduct = new productModel(e);
 
-  try {
-    const savedProduct = await newProduct.save()
-    console.log('Product Added: ', savedProduct)
-  } catch (error) {
-    console.error(error)
-  }
-});
-
-
-// const socketServer = new Server(httpServer);
-
-// socketServer.on('connection', socket => {
-//   console.log("Nuevo cliente conectado!")
-
-//   const prdcts = realTimeProducts;
+//   try {
+//     const savedProduct = await newProduct.save()
+//     console.log('Product Added: ', savedProduct)
+//   } catch (error) {
+//     console.error(error)
+//   }
+// });
 
 
-//   socket.on('add', data=>{
-//       const {title, description, price, stock } = data
-//       const pid = realTimeProducts.length;
-//       prdcts.push({ title, description, price, stock, id: pid})
-//       socket.emit('updated_data', prdcts)
-//   });
+const socketServer = new Server(httpServer);
 
-//   socket.on('remove', data=>{
-//       const { id } = data
-//       console.log(id)
-//       const index = prdcts.findIndex((e) => e.id === parseInt(id));
-//       if (index !== -1) {
-//         prdcts.splice(index, 1);
-//       }
-//       socket.emit('updated_data', prdcts);
-//   })
+socketServer.on('connection', socket => {
+  console.log("Nuevo cliente conectado!")
+
+  const prdcts = realTimeProducts;
+
+
+  socket.on('add', data=>{
+      const {title, description, price, stock } = data
+      const pid = realTimeProducts.length;
+      prdcts.push({ title, description, price, stock, id: pid})
+      socket.emit('updated_data', prdcts)
+  });
+
+  socket.on('remove', data=>{
+      const { id } = data
+      console.log(id)
+      const index = prdcts.findIndex((e) => e.id === parseInt(id));
+      if (index !== -1) {
+        prdcts.splice(index, 1);
+      }
+      socket.emit('updated_data', prdcts);
+  })
   
 
-// })
+})
 
 
 
