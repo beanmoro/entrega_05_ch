@@ -1,0 +1,912 @@
+[
+    {
+      "title": "Zapatos de Running Nike Air Zoom Pegasus 38",
+      "description": "Los zapatos de running Nike Air Zoom Pegasus 38 ofrecen una excelente amortiguación y una sujeción cómoda para tus carreras diarias.",
+      "price": 120,
+      "thumbnail": "Sin imagen",
+      "code": "aBc123",
+      "stock": 25,
+      "id": 0
+    },
+    {
+      "title": "Smartphone Samsung Galaxy S21 Ultra",
+      "description": "El Samsung Galaxy S21 Ultra es un potente smartphone con una pantalla increíble, un rendimiento rápido y una cámara versátil.",
+      "price": 1200,
+      "thumbnail": "Sin imagen",
+      "code": "dEf456",
+      "stock": 50,
+      "id": 1
+    },
+    {
+      "title": "Portátil Apple MacBook Pro 13",
+      "description": "El portátil Apple MacBook Pro 13 es una herramienta imprescindible para profesionales creativos y usuarios exigentes que buscan potencia y portabilidad.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "gHi789",
+      "stock": 10,
+      "id": 2
+    },
+    {
+      "title": "Cámara DSLR Canon EOS 5D Mark IV",
+      "description": "La cámara DSLR Canon EOS 5D Mark IV es una opción excelente para fotógrafos profesionales que buscan calidad de imagen y versatilidad.",
+      "price": 2500,
+      "thumbnail": "Sin imagen",
+      "code": "jKl012",
+      "stock": 15,
+      "id": 3
+    },
+    {
+      "title": "Televisor LG OLED CX Series",
+      "description": "El televisor LG OLED CX Series ofrece una experiencia de visualización impresionante con colores vibrantes, negros profundos y un diseño elegante.",
+      "price": 1800,
+      "thumbnail": "Sin imagen",
+      "code": "mNo345",
+      "stock": 20,
+      "id": 4
+    },
+    {
+      "title": "Auriculares Sony WH-1000XM4",
+      "description": "Los auriculares Sony WH-1000XM4 ofrecen una calidad de sonido excepcional, cancelación de ruido avanzada y comodidad durante todo el día.",
+      "price": 350,
+      "thumbnail": "Sin imagen",
+      "code": "pQr678",
+      "stock": 30,
+      "id": 5
+    },
+    {
+      "title": "Tableta Apple iPad Pro 12.9",
+      "description": "La tableta Apple iPad Pro 12.9 es una herramienta poderosa para creativos y profesionales que buscan productividad y rendimiento.",
+      "price": 900,
+      "thumbnail": "Sin imagen",
+      "code": "sTu901",
+      "stock": 40,
+      "id": 6
+    },
+    {
+      "title": "Consola de Videojuegos PlayStation 5",
+      "description": "La consola de videojuegos PlayStation 5 ofrece gráficos impresionantes, tiempos de carga rápidos y una amplia variedad de juegos emocionantes.",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "vWx234",
+      "stock": 5,
+      "id": 7
+    },
+    {
+      "title": "Impresora Multifuncional HP OfficeJet Pro 9015",
+      "description": "La impresora multifuncional HP OfficeJet Pro 9015 es perfecta para entornos de oficina ocupados, con impresión rápida y calidad profesional.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "yZa567",
+      "stock": 20,
+      "id": 8
+    },
+    {
+      "title": "Robot de Cocina KitchenAid Artisan",
+      "description": "El robot de cocina KitchenAid Artisan es una herramienta indispensable para chefs aficionados y profesionales que buscan calidad y versatilidad.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "bCd890",
+      "stock": 10,
+      "id": 9
+    },
+    {
+      "title": "Refrigeradora Samsung Family Hub",
+      "description": "La refrigeradora Samsung Family Hub ofrece un diseño innovador, funciones inteligentes y un amplio espacio de almacenamiento para alimentos.",
+      "price": 3000,
+      "thumbnail": "Sin imagen",
+      "code": "eFg123",
+      "stock": 8,
+      "id": 10
+    },
+    {
+      "title": "Silla de Oficina Ergonómica Herman Miller Aeron",
+      "description": "La silla de oficina ergonómica Herman Miller Aeron proporciona comodidad y soporte durante largas horas de trabajo, con un diseño elegante y duradero.",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "hIj456",
+      "stock": 15,
+      "id": 11
+    },
+    {
+      "title": "Bicicleta de Montaña Specialized Stumpjumper",
+      "description": "La bicicleta de montaña Specialized Stumpjumper es una opción excelente para ciclistas de montaña que buscan rendimiento y versatilidad en senderos difíciles.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "kLm789",
+      "stock": 20,
+      "id": 12
+    },
+    {
+      "title": "Monitor Gaming ASUS ROG Swift PG279Q",
+      "description": "El monitor gaming ASUS ROG Swift PG279Q ofrece una experiencia de juego inmersiva con una alta frecuencia de actualización y una resolución impresionante.",
+      "price": 600,
+      "thumbnail": "Sin imagen",
+      "code": "nOp012",
+      "stock": 25,
+      "id": 13
+    },
+    {
+      "title": "Teclado Mecánico Corsair K95 RGB Platinum XT",
+      "description": "El teclado mecánico Corsair K95 RGB Platinum XT ofrece un rendimiento excepcional y una iluminación personalizable para jugadores y profesionales.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "qRs345",
+      "stock": 30,
+      "id": 14
+    },
+    {
+      "title": "Mesa de Comedor IKEA Ekedalen",
+      "description": "La mesa de comedor IKEA Ekedalen es perfecta para reuniones familiares y cenas elegantes, con un diseño moderno y funcionalidad versátil.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "tUv678",
+      "stock": 40,
+      "id": 15
+    },
+    {
+      "title": "Horno Eléctrico Whirlpool WFE320M0JW",
+      "description": "El horno eléctrico Whirlpool WFE320M0JW ofrece un rendimiento confiable y funciones intuitivas para cocinar deliciosas comidas en casa.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "wXy901",
+      "stock": 10,
+      "id": 16
+    },
+    {
+      "title": "Maleta de Viaje Samsonite S'Cure Spinner",
+      "description": "La maleta de viaje Samsonite S'Cure Spinner es ligera, duradera y segura, perfecta para viajes de negocios y vacaciones en familia.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "zAb234",
+      "stock": 50,
+      "id": 17
+    },
+    {
+      "title": "Impresora 3D Creality Ender 3 V2",
+      "description": "La impresora 3D Creality Ender 3 V2 es ideal para entusiastas de la impresión 3D y diseñadores que buscan calidad y facilidad de uso.",
+      "price": 250,
+      "thumbnail": "Sin imagen",
+      "code": "cDe567",
+      "stock": 20,
+      "id": 18
+    },
+    {
+      "title": "Parlante Bluetooth JBL Charge 4",
+      "description": "El parlante Bluetooth JBL Charge 4 ofrece un sonido potente y una batería de larga duración, perfecto para fiestas en interiores y actividades al aire libre.",
+      "price": 120,
+      "thumbnail": "Sin imagen",
+      "code": "eFg890",
+      "stock": 30,
+      "id": 19
+    },
+    {
+      "title": "Cámara de Seguridad Arlo Pro 3",
+      "description": "La cámara de seguridad Arlo Pro 3 ofrece vigilancia 24/7 con calidad de video 2K y funciones inteligentes para proteger tu hogar o negocio.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "gHi123",
+      "stock": 15,
+      "id": 20
+    },
+    {
+      "title": "Laptop HP Pavilion x360",
+      "description": "La laptop HP Pavilion x360 ofrece versatilidad y rendimiento para estudiantes y profesionales, con una pantalla táctil y capacidad de convertirse en tablet.",
+      "price": 600,
+      "thumbnail": "Sin imagen",
+      "code": "iJk456",
+      "stock": 25,
+      "id": 21
+    },
+    {
+      "title": "Bolso de Cuero Louis Vuitton Speedy",
+      "description": "El bolso de cuero Louis Vuitton Speedy es un clásico atemporal, perfecto para quienes buscan estilo y elegancia en cada ocasión.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "kLm789",
+      "stock": 10,
+      "id": 22
+    },
+    {
+      "title": "Reloj Casio G-Shock GA-2100",
+      "description": "El reloj Casio G-Shock GA-2100 es resistente, funcional y elegante, perfecto para actividades al aire libre y uso diario.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "mNo012",
+      "stock": 20,
+      "id": 23
+    },
+    {
+      "title": "Cafetera Nespresso VertuoPlus",
+      "description": "La cafetera Nespresso VertuoPlus ofrece café de alta calidad con solo tocar un botón, con un diseño compacto y opciones de tamaño de taza.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "oPq345",
+      "stock": 30,
+      "id": 24
+    },
+    {
+      "title": "Zapatillas Converse Chuck Taylor All Star",
+      "description": "Las zapatillas Converse Chuck Taylor All Star son un clásico de la moda urbana, con un diseño icónico y una comodidad inigualable.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "qRs678",
+      "stock": 40,
+      "id": 25
+    },
+    {
+      "title": "Sartén de Hierro Fundido Lodge",
+      "description": "La sartén de hierro fundido Lodge es perfecta para cocinar en casa o acampar, con una distribución uniforme del calor y una durabilidad excepcional.",
+      "price": 30,
+      "thumbnail": "Sin imagen",
+      "code": "sTu901",
+      "stock": 50,
+      "id": 26
+    },
+    {
+      "title": "Altavoz Inteligente Amazon Echo Dot",
+      "description": "El altavoz inteligente Amazon Echo Dot ofrece un sonido potente y funciones inteligentes para controlar tu hogar, reproducir música y más.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "tUv234",
+      "stock": 60,
+      "id": 27
+    },
+    {
+      "title": "Mochila Herschel Little America",
+      "description": "La mochila Herschel Little America es espaciosa, cómoda y elegante, perfecta para llevar tus pertenencias de forma segura y con estilo.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "vWx567",
+      "stock": 70,
+      "id": 28
+    },
+    {
+      "title": "Secadora de Ropa Whirlpool WED5000DW",
+      "description": "La secadora de ropa Whirlpool WED5000DW ofrece un secado eficiente y cuidadoso para tus prendas, con opciones de temperatura y tiempo personalizables.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "xYz890",
+      "stock": 15,
+      "id": 29
+    },
+    {
+      "title": "Batería Externa Anker PowerCore 10000",
+      "description": "La batería externa Anker PowerCore 10000 ofrece carga rápida y portabilidad, perfecta para mantener tus dispositivos cargados mientras estás en movimiento.",
+      "price": 30,
+      "thumbnail": "Sin imagen",
+      "code": "aBc123",
+      "stock": 20,
+      "id": 30
+    },
+    {
+      "title": "Lavadora LG TurboWash 360",
+      "description": "La lavadora LG TurboWash 360 ofrece un lavado potente y eficiente para tus prendas, con tecnología avanzada y programas personalizados.",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "dEf456",
+      "stock": 10,
+      "id": 31
+    },
+    {
+      "title": "Mesa de Centro IKEA Lack",
+      "description": "La mesa de centro IKEA Lack es funcional y elegante, perfecta para decorar tu sala de estar y proporcionar espacio adicional para tus necesidades diarias.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "gHi789",
+      "stock": 30,
+      "id": 32
+    },
+    {
+      "title": "Afeitadora Eléctrica Philips Norelco 9000",
+      "description": "La afeitadora eléctrica Philips Norelco 9000 ofrece un afeitado suave y cómodo, con cabezales flexibles y tecnología avanzada de corte.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "jKl012",
+      "stock": 25,
+      "id": 33
+    },
+    {
+      "title": "Mesa de Escritorio IKEA Micke",
+      "description": "La mesa de escritorio IKEA Micke es perfecta para espacios pequeños, con un diseño compacto y opciones de almacenamiento inteligentes.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "mNo345",
+      "stock": 20,
+      "id": 34
+    },
+    {
+      "title": "Cámara Deportiva GoPro HERO9 Black",
+      "description": "La cámara deportiva GoPro HERO9 Black ofrece calidad de video 5K, estabilización avanzada y resistencia al agua, perfecta para capturar tus aventuras.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "pQr678",
+      "stock": 15,
+      "id": 35
+    },
+    {
+      "title": "Mesa de Noche IKEA Hemnes",
+      "description": "La mesa de noche IKEA Hemnes es elegante y funcional, con espacio de almacenamiento para tus libros, lámpara y otros objetos personales.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "sTu901",
+      "stock": 40,
+      "id": 36
+    },
+    {
+      "title": "Monitor Curvo Samsung Odyssey G9",
+      "description": "El monitor curvo Samsung Odyssey G9 ofrece una experiencia de juego inmersiva con una alta tasa de refresco y un diseño futurista.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "vWx234",
+      "stock": 5,
+      "id": 37
+    },
+    {
+      "title": "Mesa de Comedor Extensible IKEA Ingatorp",
+      "description": "La mesa de comedor extensible IKEA Ingatorp es perfecta para reuniones familiares y cenas elegantes, con espacio adicional cuando lo necesitas.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "yZa567",
+      "stock": 10,
+      "id": 38
+    },
+    {
+      "title": "Silla Gaming DXRacer Racing Series",
+      "description": "La silla gaming DXRacer Racing Series ofrece comodidad y estilo para largas sesiones de juego, con ajustes ergonómicos y materiales de alta calidad.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "bCd890",
+      "stock": 20,
+      "id": 39
+    },
+    {
+      "title": "Robot Aspirador iRobot Roomba i7+",
+      "description": "El robot aspirador iRobot Roomba i7+ ofrece limpieza automatizada y tecnología de navegación inteligente, perfecto para mantener tu hogar limpio y ordenado.",
+      "price": 700,
+      "thumbnail": "Sin imagen",
+      "code": "eFg123",
+      "stock": 15,
+      "id": 40
+    },
+    {
+      "title": "Plancha de Vapor Rowenta DW5080",
+      "description": "La plancha de vapor Rowenta DW5080 ofrece un planchado eficiente y resultados impecables, con vapor potente y suelas duraderas.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "hIj456",
+      "stock": 30,
+      "id": 41
+    },
+    {
+      "title": "Mesa de Centro Elevable Habitat Lomond",
+      "description": "La mesa de centro elevable Habitat Lomond es versátil y funcional, perfecta para espacios pequeños y estilos de decoración modernos.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "kLm789",
+      "stock": 10,
+      "id": 42
+    },
+    {
+      "title": "Freidora de Aire Cosori Air Fryer",
+      "description": "La freidora de aire Cosori Air Fryer ofrece una forma saludable de cocinar tus alimentos favoritos con poco o ningún aceite, manteniendo el sabor y la textura.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "mNo012",
+      "stock": 20,
+      "id": 43
+    },
+    {
+      "title": "Mochila de Senderismo Osprey Atmos AG 65",
+      "description": "La mochila de senderismo Osprey Atmos AG 65 ofrece comodidad y capacidad de almacenamiento para largas caminatas y aventuras al aire libre.",
+      "price": 250,
+      "thumbnail": "Sin imagen",
+      "code": "oPq345",
+      "stock": 5,
+      "id": 44
+    },
+    {
+      "title": "Sistema de Sonido Bose SoundTouch 300",
+      "description": "El sistema de sonido Bose SoundTouch 300 ofrece un sonido potente y claro para películas, música y juegos, con tecnología de última generación.",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "qRs678",
+      "stock": 25,
+      "id": 45
+    },
+    {
+      "title": "Bicicleta Eléctrica Rad Power Bikes RadRover 5",
+      "description": "La bicicleta eléctrica Rad Power Bikes RadRover 5 es resistente, versátil y perfecta para explorar la ciudad o aventuras en terrenos difíciles.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "sTu901",
+      "stock": 10,
+      "id": 46
+    },
+    {
+      "title": "Aspiradora Dyson V11 Torque Drive",
+      "description": "La aspiradora Dyson V11 Torque Drive ofrece una limpieza potente y sin esfuerzo, con tecnología avanzada y diseño ergonómico.",
+      "price": 700,
+      "thumbnail": "Sin imagen",
+      "code": "tUv234",
+      "stock": 20,
+      "id": 47
+    },
+    {
+      "title": "Batería de Cocina T-fal Ultimate Hard Anodized",
+      "description": "La batería de cocina T-fal Ultimate Hard Anodized ofrece durabilidad y rendimiento excepcionales, con utensilios resistentes y antiadherentes.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "vWx567",
+      "stock": 15,
+      "id": 48
+    },
+    {
+      "title": "Impresora Fotográfica Canon SELPHY CP1300",
+      "description": "La impresora fotográfica Canon SELPHY CP1300 ofrece impresiones de alta calidad y portabilidad, perfecta para capturar y compartir tus momentos favoritos.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "xYz890",
+      "stock": 25,
+      "id": 49
+    },
+    {
+      "title": "Parrilla de Gas Weber Spirit II E-310",
+      "description": "La parrilla de gas Weber Spirit II E-310 ofrece un rendimiento excepcional y una cocina versátil, perfecta para asar carnes, verduras y más.",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "aBc123",
+      "stock": 5,
+      "id": 50
+    },
+    {
+      "title": "Cámara Mirrorless Sony Alpha a7 III",
+      "description": "La cámara mirrorless Sony Alpha a7 III ofrece calidad de imagen profesional y rendimiento excepcional en un cuerpo compacto y ligero.",
+      "price": 2000,
+      "thumbnail": "Sin imagen",
+      "code": "dEf456",
+      "stock": 20,
+      "id": 51
+    },
+    {
+      "title": "Aspiradora Robot Eufy RoboVac 11S",
+      "description": "La aspiradora robot Eufy RoboVac 11S ofrece limpieza automatizada y eficiente, con un diseño delgado y tecnología de navegación inteligente.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "gHi789",
+      "stock": 15,
+      "id": 52
+    },
+    {
+      "title": "Caja de Herramientas Craftsman 450-Piece",
+      "description": "La caja de herramientas Craftsman 450-Piece es completa y duradera, perfecta para proyectos de bricolaje y reparaciones en el hogar.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "jKl012",
+      "stock": 10,
+      "id": 53
+    },
+    {
+      "title": "Silla de Comedor Eames Eiffel",
+      "description": "La silla de comedor Eames Eiffel es elegante y cómoda, perfecta para reuniones familiares y cenas con amigos.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "mNo345",
+      "stock": 30,
+      "id": 54
+    },
+    {
+      "title": "Cafetera Expresso De'Longhi EC155",
+      "description": "La cafetera expresso De'Longhi EC155 ofrece café delicioso y cremoso en casa, con un diseño compacto y fácil de usar.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "pQr678",
+      "stock": 25,
+      "id": 55
+    },
+    {
+      "title": "Silla de Oficina Ergonómica Herman Miller Aeron",
+      "description": "La silla de oficina ergonómica Herman Miller Aeron proporciona comodidad y soporte durante largas horas de trabajo, con un diseño elegante y duradero.",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "rTs901",
+      "stock": 20,
+      "id": 56
+    },
+    {
+      "title": "Teclado Mecánico Corsair K95 RGB Platinum XT",
+      "description": "El teclado mecánico Corsair K95 RGB Platinum XT ofrece un rendimiento excepcional y una iluminación personalizable para jugadores y profesionales.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "uVw234",
+      "stock": 15,
+      "id": 57
+    },
+    {
+      "title": "Mesa de Comedor IKEA Ekedalen",
+      "description": "La mesa de comedor IKEA Ekedalen es perfecta para reuniones familiares y cenas elegantes, con un diseño moderno y funcionalidad versátil.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "xYz567",
+      "stock": 25,
+      "id": 58
+    },
+    {
+      "title": "Horno Eléctrico Whirlpool WFE320M0JW",
+      "description": "El horno eléctrico Whirlpool WFE320M0JW ofrece un rendimiento confiable y funciones intuitivas para cocinar deliciosas comidas en casa.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "aBc890",
+      "stock": 10,
+      "id": 59
+    },
+    {
+      "title": "Maleta de Viaje Samsonite S'Cure Spinner",
+      "description": "La maleta de viaje Samsonite S'Cure Spinner es ligera, duradera y segura, perfecta para viajes de negocios y vacaciones en familia.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "dEf123",
+      "stock": 30,
+      "id": 60
+    },
+    {
+      "title": "Impresora 3D Creality Ender 3 V2",
+      "description": "La impresora 3D Creality Ender 3 V2 es ideal para entusiastas de la impresión 3D y diseñadores que buscan calidad y facilidad de uso.",
+      "price": 250,
+      "thumbnail": "Sin imagen",
+      "code": "gHi456",
+      "stock": 20,
+      "id": 61
+    },
+    {
+      "title": "Parlante Bluetooth JBL Charge 4",
+      "description": "El parlante Bluetooth JBL Charge 4 ofrece un sonido potente y una batería de larga duración, perfecto para fiestas en interiores y actividades al aire libre.",
+      "price": 120,
+      "thumbnail": "Sin imagen",
+      "code": "jKl789",
+      "stock": 25,
+      "id": 62
+    },
+    {
+      "title": "Cámara de Seguridad Arlo Pro 3",
+      "description": "La cámara de seguridad Arlo Pro 3 ofrece vigilancia 24/7 con calidad de video 2K y funciones inteligentes para proteger tu hogar o negocio.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "mNo012",
+      "stock": 15,
+      "id": 63
+    },
+    {
+      "title": "Laptop HP Pavilion x360",
+      "description": "La laptop HP Pavilion x360 ofrece versatilidad y rendimiento para estudiantes y profesionales, con una pantalla táctil y capacidad de convertirse en tablet.",
+      "price": 600,
+      "thumbnail": "Sin imagen",
+      "code": "oPq345",
+      "stock": 20,
+      "id": 64
+    },
+    {
+      "title": "Bolso de Cuero Louis Vuitton Speedy",
+      "description": "El bolso de cuero Louis Vuitton Speedy es un clásico atemporal, perfecto para quienes buscan estilo y elegancia en cada ocasión.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "pQr678",
+      "stock": 10,
+      "id": 65
+    },
+    {
+      "title": "Reloj Casio G-Shock GA-2100",
+      "description": "El reloj Casio G-Shock GA-2100 es resistente, funcional y elegante, perfecto para actividades al aire libre y uso diario.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "rTs901",
+      "stock": 30,
+      "id": 66
+    },
+    {
+      "title": "Cafetera Nespresso VertuoPlus",
+      "description": "La cafetera Nespresso VertuoPlus ofrece café de alta calidad con solo tocar un botón, con un diseño compacto y opciones de tamaño de taza.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "sTu234",
+      "stock": 40,
+      "id": 67
+    },
+    {
+      "title": "Zapatillas Converse Chuck Taylor All Star",
+      "description": "Las zapatillas Converse Chuck Taylor All Star son un clásico de la moda urbana, con un diseño icónico y una comodidad inigualable.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "tUv567",
+      "stock": 50,
+      "id": 68
+    },
+    {
+      "title": "Sartén de Hierro Fundido Lodge",
+      "description": "La sartén de hierro fundido Lodge es perfecta para cocinar en casa o acampar, con una distribución uniforme del calor y una durabilidad excepcional.",
+      "price": 30,
+      "thumbnail": "Sin imagen",
+      "code": "vWx890",
+      "stock": 60,
+      "id": 69
+    },
+    {
+      "title": "Altavoz Inteligente Amazon Echo Dot",
+      "description": "El altavoz inteligente Amazon Echo Dot ofrece un sonido potente y funciones inteligentes para controlar tu hogar, reproducir música y más.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "wXy123",
+      "stock": 70,
+      "id": 70
+    },
+    {
+      "title": "Mochila Herschel Little America",
+      "description": "La mochila Herschel Little America es espaciosa, cómoda y elegante, perfecta para llevar tus pertenencias de forma segura y con estilo.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "xYz456",
+      "stock": 80,
+      "id": 71
+    },
+    {
+      "title": "Secadora de Ropa Whirlpool WED5000DW",
+      "description": "La secadora de ropa Whirlpool WED5000DW ofrece un secado eficiente y cuidadoso para tus prendas, con opciones de temperatura y tiempo personalizables.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "aBc789",
+      "stock": 15,
+      "id": 72
+    },
+    {
+      "title": "Batería Externa Anker PowerCore 10000",
+      "description": "La batería externa Anker PowerCore 10000 ofrece carga rápida y portabilidad, perfecta para mantener tus dispositivos cargados mientras estás en movimiento.",
+      "price": 30,
+      "thumbnail": "Sin imagen",
+      "code": "dEf012",
+      "stock": 20,
+      "id": 73
+    },
+    {
+      "title": "Lavadora LG TurboWash 360",
+      "description": "La lavadora LG TurboWash 360 ofrece un lavado potente y eficiente para tus prendas, con tecnología avanzada y programas personalizados.",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "gHi345",
+      "stock": 10,
+      "id": 74
+    },
+    {
+      "title": "Mesa de Centro IKEA Lack",
+      "description": "La mesa de centro IKEA Lack es funcional y elegante, perfecta para decorar tu sala de estar y proporcionar espacio adicional para tus necesidades diarias.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "jKl678",
+      "stock": 30,
+      "id": 75
+    },
+    {
+      "title": "Afeitadora Eléctrica Philips Norelco 9000",
+      "description": "La afeitadora eléctrica Philips Norelco 9000 ofrece un afeitado suave y cómodo, con cabezales flexibles y tecnología avanzada de corte.",
+      "price": 150,
+      "thumbnail": "Sin imagen",
+      "code": "mNo901",
+      "stock": 25,
+      "id": 76
+    },
+    {
+      "title": "Mesa de Escritorio IKEA Micke",
+      "description": "La mesa de escritorio IKEA Micke es perfecta para espacios pequeños, con un diseño compacto y opciones de almacenamiento inteligentes.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "oPq234",
+      "stock": 20,
+      "id": 77
+    },
+    {
+      "title": "Cámara Deportiva GoPro HERO9 Black",
+      "description": "La cámara deportiva GoPro HERO9 Black ofrece calidad de video 5K, estabilización avanzada y resistencia al agua, perfecta para capturar tus aventuras.",
+      "price": 400,
+      "thumbnail": "Sin imagen",
+      "code": "qRs567",
+      "stock": 15,
+      "id": 78
+    },
+    {
+      "title": "Mesa de Noche IKEA Hemnes",
+      "description": "La mesa de noche IKEA Hemnes es elegante y funcional, con espacio de almacenamiento para tus libros, lámpara y otros objetos personales.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "sTu890",
+      "stock": 40,
+      "id": 79
+    },
+    {
+      "title": "Monitor Curvo Samsung Odyssey G9",
+      "description": "El monitor curvo Samsung Odyssey G9 ofrece una experiencia de juego inmersiva con una alta tasa de refresco y un diseño futurista.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "tUv123",
+      "stock": 5,
+      "id": 80
+    },
+    {
+      "title": "Mesa de Comedor Extensible IKEA Ingatorp",
+      "description": "La mesa de comedor extensible IKEA Ingatorp es perfecta para reuniones familiares y cenas elegantes, con espacio adicional cuando lo necesitas.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "vWx456",
+      "stock": 10,
+      "id": 81
+    },
+    {
+      "title": "Silla Gaming DXRacer Racing Series",
+      "description": "La silla gaming DXRacer Racing Series ofrece comodidad y estilo para largas sesiones de juego, con ajustes ergonómicos y materiales de alta calidad.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "wXy789",
+      "stock": 20,
+      "id": 82
+    },
+    {
+      "title": "Robot Aspirador iRobot Roomba i7+",
+      "description": "El robot aspirador iRobot Roomba i7+ ofrece limpieza automatizada y tecnología de navegación inteligente, perfecto para mantener tu hogar limpio y ordenado.",
+      "price": 700,
+      "thumbnail": "Sin imagen",
+      "code": "xYz012",
+      "stock": 15,
+      "id": 83
+    },
+    {
+      "title": "Plancha de Vapor Rowenta DW5080",
+      "description": "La plancha de vapor Rowenta DW5080 ofrece un planchado eficiente y resultados impecables, con vapor potente y suelas duraderas.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "aBc345",
+      "stock": 30,
+      "id": 84
+    },
+    {
+      "title": "Mesa de Centro Elevable Habitat Lomond",
+      "description": "La mesa de centro elevable Habitat Lomond es versátil y funcional, perfecta para espacios pequeños y estilos de decoración modernos.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "cDe678",
+      "stock": 10,
+      "id": 85
+    },
+    {
+      "title": "Freidora de Aire Cosori Air Fryer",
+      "description": "La freidora de aire Cosori Air Fryer ofrece una forma saludable de cocinar tus alimentos favoritos con poco o ningún aceite, manteniendo el sabor y la textura.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "eFg901",
+      "stock": 20,
+      "id": 86
+    },
+    {
+      "title": "Mochila de Senderismo Osprey Atmos AG 65",
+      "description": "La mochila de senderismo Osprey Atmos AG 65 ofrece comodidad y capacidad de almacenamiento para largas caminatas y aventuras al aire libre.",
+      "price": 250,
+      "thumbnail": "Sin imagen",
+      "code": "gHi234",
+      "stock": 5,
+      "id": 87
+    },
+    {
+      "title": "Sistema de Sonido Bose SoundTouch 300",
+      "description": "El sistema de sonido Bose SoundTouch 300 ofrece un sonido potente y claro para películas, música y juegos, con tecnología de última generación.",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "iJk567",
+      "stock": 25,
+      "id": 88
+    },
+    {
+      "title": "Bicicleta Eléctrica Rad Power Bikes RadRover 5",
+      "description": "La bicicleta eléctrica Rad Power Bikes RadRover 5 es resistente, versátil y perfecta para explorar la ciudad o aventuras en terrenos difíciles.",
+      "price": 1500,
+      "thumbnail": "Sin imagen",
+      "code": "kLm890",
+      "stock": 10,
+      "id": 89
+    },
+    {
+      "title": "Aspiradora Dyson V11 Torque Drive",
+      "description": "La aspiradora Dyson V11 Torque Drive ofrece una limpieza potente y sin esfuerzo, con tecnología avanzada y diseño ergonómico.",
+      "price": 700,
+      "thumbnail": "Sin imagen",
+      "code": "mNo123",
+      "stock": 20,
+      "id": 90
+    },
+    {
+      "title": "Batería de Cocina T-fal Ultimate Hard Anodized",
+      "description": "La batería de cocina T-fal Ultimate Hard Anodized ofrece durabilidad y rendimiento excepcionales, con utensilios resistentes y antiadherentes.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "oPq456",
+      "stock": 15,
+      "id": 91
+    },
+    {
+      "title": "Impresora Fotográfica Canon SELPHY CP1300",
+      "description": "La impresora fotográfica Canon SELPHY CP1300 ofrece impresiones de alta calidad y portabilidad, perfecta para capturar y compartir tus momentos favoritos.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "qRs789",
+      "stock": 25,
+      "id": 92
+    },
+    {
+      "title": "Parrilla de Gas Weber Spirit II E-310",
+      "description": "La parrilla de gas Weber Spirit II E-310 ofrece un rendimiento excepcional y una cocina versátil, perfecta para asar carnes, verduras y más.",
+      "price": 500,
+      "thumbnail": "Sin imagen",
+      "code": "sTu012",
+      "stock": 5,
+      "id": 93
+    },
+    {
+      "title": "Cámara Mirrorless Sony Alpha a7 III",
+      "description": "La cámara mirrorless Sony Alpha a7 III ofrece calidad de imagen profesional y rendimiento excepcional en un cuerpo compacto y ligero.",
+      "price": 2000,
+      "thumbnail": "Sin imagen",
+      "code": "vWx345",
+      "stock": 20,
+      "id": 94
+    },
+    {
+      "title": "Aspiradora Robot Eufy RoboVac 11S",
+      "description": "La aspiradora robot Eufy RoboVac 11S ofrece limpieza automatizada y eficiente, con un diseño delgado y tecnología de navegación inteligente.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "xYz678",
+      "stock": 15,
+      "id": 95
+    },
+    {
+      "title": "Caja de Herramientas Craftsman 450-Piece",
+      "description": "La caja de herramientas Craftsman 450-Piece es completa y duradera, perfecta para proyectos de bricolaje y reparaciones en el hogar.",
+      "price": 300,
+      "thumbnail": "Sin imagen",
+      "code": "aBc901",
+      "stock": 10,
+      "id": 96
+    },
+    {
+      "title": "Silla de Comedor Eames Eiffel",
+      "description": "La silla de comedor Eames Eiffel es elegante y cómoda, perfecta para reuniones familiares y cenas con amigos.",
+      "price": 50,
+      "thumbnail": "Sin imagen",
+      "code": "dEf234",
+      "stock": 30,
+      "id": 97
+    },
+    {
+      "title": "Cafetera Expresso De'Longhi EC155",
+      "description": "La cafetera expresso De'Longhi EC155 ofrece café delicioso y cremoso en casa, con un diseño compacto y fácil de usar.",
+      "price": 100,
+      "thumbnail": "Sin imagen",
+      "code": "gHi567",
+      "stock": 25,
+      "id": 98
+    },
+    {
+      "title": "Silla de Oficina Ergonómica Herman Miller Aeron",
+      "description": "La silla de oficina ergonómica Herman Miller Aeron proporciona comodidad y soporte durante largas horas de trabajo, con un diseño elegante y duradero.",
+      "price": 800,
+      "thumbnail": "Sin imagen",
+      "code": "jKl890",
+      "stock": 20,
+      "id": 99
+    },
+    {
+      "title": "Teclado Mecánico Corsair K95 RGB Platinum XT",
+      "description": "El teclado mecánico Corsair K95 RGB Platinum XT ofrece un rendimiento excepcional y una iluminación personalizable para jugadores y profesionales.",
+      "price": 200,
+      "thumbnail": "Sin imagen",
+      "code": "mNo123",
+      "stock": 15,
+      "id": 100
+    }
+  ]
+  
