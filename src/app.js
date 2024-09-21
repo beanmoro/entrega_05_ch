@@ -19,7 +19,7 @@ const httpServer = app.listen(PORT, () => {
 });
 
 try {
-  await mongoose.connect('mongodb+srv://CoderUser:123@codercluster.67vrm4s.mongodb.net/?retryWrites=true&w=majority')
+  await mongoose.connect('mongodb+srv://CoderUser:123@codercluster.67vrm4s.mongodb.net/ecommerce')
   console.log('Connected to MongoDB');
 } catch (error) {
   console.log('Cannot connect to database: ' + error);
